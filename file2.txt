@@ -1,0 +1,5 @@
+  echo "enter filename"
+  Read filename
+  echo " writing my second commit with git.I am loving it so far" > $filename
+  cat $filename
+
