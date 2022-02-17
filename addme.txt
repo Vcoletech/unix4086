@@ -1,3 +1,9 @@
+#!/bin/bash
+# This linux runlevels ang target unit practice
+# Lets go deep in Linux
+#Author Victor Cole
+Date 2/16/2022
+
 Comparing SysV Runlevels (RHEL/CENTOS 6) And SystemD Target Units
 Run Level
 Target Units
@@ -19,7 +25,4 @@ runlevel6.target, reboot.target
 Shut down and reboot the system
 
 
-echo " enter filename "
-read filename
-echo " 2020 is going to be a good year for me. i will make it in jesus name. amen " > txt.app
-cat $filename
+
